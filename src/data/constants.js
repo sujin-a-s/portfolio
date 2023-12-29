@@ -11,7 +11,7 @@ export const Bio = {
     "Welcome to my world of front-end development, where creativity meets code. I'm a passionate developer known for crafting captivating and user-friendly websites. With a keen eye for design and a commitment to cutting-edge technologies, I transform concepts into stunning digital experiences. Explore my portfolio to witness the seamless fusion of art and technology.",
   github: "https://github.com/sujin-a-s",
   resume:
-    "https://drive.google.com/file/d/1HGHKkqDG-IxFsSITBnhsjINoCqDokvvg/view?usp=drive_link",
+    "https://drive.google.com/file/d/1eIPzwupIny0O7Y5QKreH0jtO8lUA7Z1l/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/sujin-a-s/",
   //twitter: "https://twitter.com/RishavChanda",
 
